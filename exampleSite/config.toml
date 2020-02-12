@@ -2,7 +2,7 @@ baseURL = "http://maximelarrouturou.netlify.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
+title = "UI Designer | Maxime Larrouturou"
 [[menu.main]]
 URL = "about"
 name = "About"
@@ -20,15 +20,15 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
-copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+address = "71 rue Jean Marin Naudin, France, 92220 Bagneux"
+author = "Maxime Larrouturou"
+copyright = "Copyrighht &copy; 2020"
 description = "This is meta description"
-email = "steve.fruits@email.com"
+email = "larrouturoumaxime@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/logo.png"
-phone = "+880 2544 658 256"
+phone = "0678491075"
 theme_color = "#41228e"
 [params.contact]
 enable = true
@@ -39,6 +39,8 @@ URL = "plugins/bootstrap/bootstrap.min.css"
 URL = "plugins/slick/slick.css"
 [[params.plugins.css]]
 URL = "plugins/themify-icons/themify-icons.css"
+[[params.assets.css]]
+URL = "assets/css/style.css"
 [[params.plugins.js]]
 URL = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
