@@ -1,4 +1,4 @@
-baseURL = "http://maximelarrouturou.netlify.com"
+baseURL = "https://maximelarrouturou.netlify.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
