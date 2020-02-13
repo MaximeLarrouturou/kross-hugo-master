@@ -78,7 +78,8 @@
           <h2 class="section-title">{{ .title | markdownify }}</h2>
         </div>
         {{ range .item }}
-        <div class="col-lg-3 col-sm-6 mb-4">
+        <div class="col-lg-12 text-center">
+        <div class="col-lg-3 col-sm-6 mb-6">
           <div class="card shadow text-center">
             <div class="position-relative rounded-top progress-wrapper" data-color="{{.color}}">
               <div class="wave" data-progress="{{.progress}}"></div>
@@ -87,6 +88,7 @@
               <h4 class="card-title">{{.title }} ({{.progress}})</h4>
             </div>
           </div>
+        </div>
         </div>
         {{ end }}
       </div>
