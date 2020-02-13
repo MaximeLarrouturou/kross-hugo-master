@@ -1,4 +1,4 @@
-baseURL = "https://maximelarrouturou.netlify.com"
+baseURL = "https://maximelarrouturou.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
@@ -23,6 +23,7 @@ weight = 5
 address = "71 rue Jean Marin Naudin, France, 92220 Bagneux"
 author = "Maxime Larrouturou"
 copyright = "Copyrighht &copy; 2020"
+customCSS = ["css/style.css"]
 description = "This is meta description"
 email = "larrouturoumaxime@gmail.com"
 google_analitycs_id = "Your ID"
@@ -30,7 +31,6 @@ home = "Home"
 logo = "images/logo.png"
 phone = "0678491075"
 theme_color = "#41228e"
-customCSS = ["css/style.css"]
 [params.contact]
 enable = true
 form_action = "#"
