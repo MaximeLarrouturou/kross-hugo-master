@@ -136,9 +136,12 @@ testimonial:
 clients_logo_slider:
   enable : true
   item:
-    - logo : "images/clients-logo/client-logo-6.png"
+    - logo : "images/clients-logo/client-logo-4.png"
       URL : "http://www.lapupille.fr/"
-            
+
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "http://www.lapupille.fr/"
+
     - logo : "images/clients-logo/client-logo-6.png"
       URL : "http://www.lapupille.fr/"
       
