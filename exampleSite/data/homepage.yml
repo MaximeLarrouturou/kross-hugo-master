@@ -32,10 +32,6 @@ skill:
       progress : "90%"
       color : "#ffbcaa"
 
-    - title : "Developpement Web"
-      progress : "30%"
-      color : "#9473e6"
-
 # experience
 experience:
   enable : true
