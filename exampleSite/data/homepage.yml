@@ -1,6 +1,6 @@
 # banner
 banner:
-  title : "Bonjour ! <br> Je suis Maxime <br> UI designer"
+  title : "Bonjour ! <br> Je suis Maxime <br> UI Designer"
 
 # about
 about:
@@ -14,23 +14,27 @@ about:
 # skill
 skill:
   enable : true
-  title : "Skills"
+  title : "Compétences"
   item:
     - title : "Web Design"
-      progress : "90%"
+      progress : "80%"
       color : "#fdb157"
       
-    - title : "Logo Design"
-      progress : "60%"
+    - title : "UI Design"
+      progress : "70%"
       color : "#9473e6"
       
-    - title : "After Effects"
-      progress : "80%"
+    - title : "Motion Design"
+      progress : "60%"
       color : "#bdecf6"
       
-    - title : "Web App"
-      progress : "70%"
+    - title : "Graphic Design"
+      progress : "90%"
       color : "#ffbcaa"
+
+    - title : "Developpement Web"
+      progress : "30%"
+      color : "#9473e6"
 
 # experience
 experience:
@@ -87,6 +91,11 @@ service:
       icon : "ti-vector"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       highlighted : true
+
+    - title : "Interaction Design"
+      icon : "ti-panel"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      highlighted : false
 
     - title : "Interaction Design"
       icon : "ti-panel"
