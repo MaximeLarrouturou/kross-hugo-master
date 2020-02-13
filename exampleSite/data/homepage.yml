@@ -35,32 +35,32 @@ skill:
 # experience
 experience:
   enable : true
-  title : "Experience"
+  title : "Experiences"
   item: 
     - logo : "images/experience/icon-1.png"
-      title : "Junior UX Designer"
-      company : "WEBEX"
-      duration : "Jan 2007 - Feb 2009"
+      title : "Junior Front-End Developer"
+      company : "SYNTHESIO"
+      duration : "Aug 2019 - Nov 2019"
       
     - logo : "images/experience/icon-2.png"
-      title : "UX & UI Designer"
-      company : "AUGMEDIX"
-      duration : "Mar 2009 - Aug 2014"
+      title : " UI Designer"
+      company : "MEDIAMETRIE"
+      duration : "Mar 2015 - Aug 2019"
       
-    - logo : "images/experience/icon-1.png"
-      title : "Webdesigner"
-      company : "THEMEFISHER"
-      duration : "Sep 2014 - Present"
+    - logo : "images/experience/icon-3.png"
+      title : "Motion Designer"
+      company : "LAPUPILLE"
+      duration : "Oct 2012 - Sept 2013"
 
     - logo : "images/experience/icon-1.png"
       title : "Webdesigner"
-      company : "THEMEFISHER"
-      duration : "Sep 2014 - Present"
+      company : "CREATIVLINK"
+      duration : "Sep 2010 - Oct 2014"
 
 # education
 education:
   enable : true
-  title : "Education"
+  title : "Etudes professionnelles"
   item:
     - title : "Marters in UX Design"
       year : "2006"
