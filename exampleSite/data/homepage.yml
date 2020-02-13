@@ -89,19 +89,21 @@ service:
   item:
     - title : "UI Design"
       icon : "ti-palette"
-      content : "Dans le cas d’une application Web, l’interface utilisateur (UI) est une interface web matérialisée par une interface graphique que l’on peut manipuler avec un navigateur Web. L’UI est donc axée sur le design d’une interface graphique en s’appuyant sur des normes techniques permettant d’organiser les éléments textuels et graphiques d’une page web. Elle conditionne également la manière dont l’application ou le site internet sollicite les interactions des utilisateurs. Seulement, l’UI seule ne permet pas de répondre à toutes les attentes et problématiques des internautes"
+      content : "Dans le cas d’une application Web, l’UI-Design est une interface web matérialisée par une interface graphique que l’on peut manipuler avec un navigateur Web. L’UI-Design est donc axée sur le design d’une interface graphique en s’appuyant sur des normes techniques permettant d’organiser les éléments textuels et graphiques d’une page web. Elle conditionne également la manière dont l’application ou le site internet sollicite les interactions des utilisateurs. Seulement, l’UI-Design seule ne permet pas de répondre à toutes les attentes et problématiques des internautes"
       highlighted : false
-      source : "source : www.anthedesign.fr"
+      source : "source: www.anthedesign.fr"
 
     - title : "UX Design"
       icon : "ti-vector"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "L’UX-Design est une discipline dont l’objectif est de concevoir un produit au service des utilisateurs. La difficulté est alors de faire rencontrer la stratégie du premier avec la réalité des derniers, qui ont aujourd’hui un pouvoir décisionnaire de par leurs usages et comportements. L’UX-Design propose alors une vraie réflexion en amont pour garantir in fine une expérience utilisateur optimale."
       highlighted : true
+      source : "source: www.ux-republic.com"
 
     - title : "Interaction Design"
       icon : "ti-panel"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "Né avec le développement du numérique et de l’électronique, le design interactif désigne la conception d’objets ou de services interactifs. C’est une discipline transversale du design, rencontrée en design de produit, web design, design de service… Son champ d’applications est vaste  : Web & logiciels, mobiles & tablettes, TV connectée, bornes interactives, objets connectés, corps augmenté, robots. L’enjeu n’est plus seulement de proposer des expériences qui prennent forme au travers des écrans, mais aussi dans une multitude de dispositifs nouveaux, des objets connectés aux installations interactives."
       highlighted : false
+      source : "source: www.medium.com"
 
 # portfolio
 portfolio:
@@ -134,35 +136,18 @@ testimonial:
 clients_logo_slider:
   enable : true
   item:
-    - logo : "images/clients-logo/client-logo-1.png"
-      URL : "http://examplesite.com"
       
-    - logo : "images/clients-logo/client-logo-2.png"
-      URL : "#"
+    - logo : "images/clients-logo/client-logo-6.png"
+      URL : "http://www.lapupille.fr/"
       
-    - logo : "images/clients-logo/client-logo-3.png"
-      URL : "http://examplesite.com"
+    - logo : "images/clients-logo/client-logo-7.png"
+      URL : "https://creativ.link/"
       
-    - logo : "images/clients-logo/client-logo-4.png"
-      URL : "#"
+    - logo : "images/clients-logo/client-logo-8.png"
+      URL : "https://www.mediametrie.fr/"
       
-    - logo : "images/clients-logo/client-logo-5.png"
-      URL : "http://examplesite.com"
-      
-    - logo : "images/clients-logo/client-logo-1.png"
-      URL : "#"
-      
-    - logo : "images/clients-logo/client-logo-2.png"
-      URL : "http://examplesite.com"
-      
-    - logo : "images/clients-logo/client-logo-3.png"
-      URL : "#"
-      
-    - logo : "images/clients-logo/client-logo-4.png"
-      URL : "http://examplesite.com"
-      
-    - logo : "images/clients-logo/client-logo-5.png"
-      URL : "#"
+    - logo : "images/clients-logo/client-logo-9.png"
+      URL : https://www.synthesio.com/fr"
 
 # blog
 blog:
