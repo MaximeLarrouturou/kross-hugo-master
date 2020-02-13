@@ -40,19 +40,19 @@ experience:
     - logo : "images/experience/icon-1.png"
       title : "Junior Front-End Developer"
       company : "SYNTHESIO"
-      duration : "Aug 2019 - Nov 2019"
-      
-    - logo : "images/experience/icon-2.png"
-      title : " UI Designer"
-      company : "MEDIAMETRIE"
-      duration : "Mar 2015 - Aug 2019"
+      duration : "Août 2019 - Nov 2019"
       
     - logo : "images/experience/icon-3.png"
+      title : " UI Designer"
+      company : "MEDIAMETRIE"
+      duration : "Mar 2015 - Août 2019"
+      
+    - logo : "images/experience/icon-1.png"
       title : "Motion Designer"
       company : "LAPUPILLE"
       duration : "Oct 2012 - Sept 2013"
 
-    - logo : "images/experience/icon-1.png"
+    - logo : "images/experience/icon-2.png"
       title : "Webdesigner"
       company : "CREATIVLINK"
       duration : "Sep 2010 - Oct 2014"
@@ -60,23 +60,27 @@ experience:
 # education
 education:
   enable : true
-  title : "Etudes professionnelles"
+  title : "Diplômes et certifications"
   item:
-    - title : "Marters in UX Design"
-      year : "2006"
-      academy : "Masassusets Institute of Technology"
+    - title : "Formation en ligne"
+      year : "2017 - actuel"
+      academy : "Udemy - Site web de formation en ligne"
       
-    - title : "Honours in Fine Arts"
-      year : "2004"
-      academy : "Harvard University"
+    - title : "BAC +4 - Chef de projet web concepteur/développeur web "
+      year : "Jan 2015 - Juin 2016"
+      academy : "Institut f2i, Neuilly-Sur-Seine(92)"
       
-    - title : "Higher Secondary Certificat"
-      year : "2000"
-      academy : "Cardiff School"
+    - title : "BAC - Professionnel art et métier d’art, option communication"
+      year : "Sept 2008 - Août 2010"
+      academy : "Campus Fonderie de l'Image, Bagnolet(93)"
       
-    - title : "Secondary School Certificate"
-      year : "1998"
-      academy : "Cardiff School"
+    - title : "CAP - Dessinateur exécutant en art graphique "
+      year : "Sept 2006 - Août 2008"
+      academy : "Campus Fonderie de l'Image, Bagnolet(93)"
+
+    - title : "Android, développer des applications pour mobiles, les bases du language swift"
+      year : "Oct 2017"
+      academy : "Orsys, La Defense(92)"
 
 # service
 service:
@@ -85,8 +89,10 @@ service:
   item:
     - title : "UI Design"
       icon : "ti-palette"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "Dans le cas d’une application Web, l’interface utilisateur (UI) est une interface web matérialisée par une interface graphique que l’on peut manipuler avec un navigateur Web. <br>
+L’UI est donc axée sur le design d’une interface graphique en s’appuyant sur des normes techniques permettant d’organiser les éléments textuels et graphiques d’une page web. Elle conditionne également la manière dont l’application ou le site internet sollicite les interactions des utilisateurs. Seulement, l’UI seule ne permet pas de répondre à toutes les attentes et problématiques des internautes"
       highlighted : false
+            academy : "source : www.anthedesign.fr"
 
     - title : "UX Design"
       icon : "ti-vector"
