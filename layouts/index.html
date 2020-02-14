@@ -181,6 +181,15 @@
   {{ end }}
   {{ end }}
 
+  {{ if .Site.Data.homepage.clients_logo_slider.enable }}
+  <!-- client logo slider -->
+  <section class="section pb-0">
+    <div class="container">
+      {{ partial "client-slider.html" . }}
+    </div>
+  </section>
+  <!-- /client logo slider -->
+  {{ end }}
 
   {{ if .Site.Data.homepage.portfolio.enable }}
   <!-- portfolio -->
@@ -247,17 +256,6 @@
   </section>
   <!-- /testimonial -->
   {{ end }}
-  {{ end }}
-
-
-  {{ if .Site.Data.homepage.clients_logo_slider.enable }}
-  <!-- client logo slider -->
-  <section class="section pb-0">
-    <div class="container">
-      {{ partial "client-slider.html" . }}
-    </div>
-  </section>
-  <!-- /client logo slider -->
   {{ end }}
 
   {{ if .Site.Data.homepage.blog.enable }}
