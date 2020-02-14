@@ -1,19 +1,19 @@
 # work process
 work_process:
   enable : true
-  title : "Work Process"
+  title : "Processus de travail"
   item:
-  - title : "Research and Plan"
+  - title : "Recherche et définition"
     icon : "images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Discussions autour du projet, comprendre les objectifs. Analyser la cible et les appareils supportés. Etablir un audit des contenus. Définir les livrables et les attentes."
     
-  - title : "Design and Develop"
+  - title : "Designer et développer"
     icon : "images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Modéliser des gabarits à l'aide de maquettes filaires (wireframe). Pour une meilleure expérience, prototyper les maquettes. Etablissement des styles et charte graphique (kit UI), conception d'un style guide (Design System)."
     
-  - title : "Deliver"
+  - title : "Livraison"
     icon : "images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Intégration des composants, maquettes. Développement des templates, pages utilisable et mise en pre production pour le lancement de la mise en ligne."
 
 
 # team
@@ -37,5 +37,5 @@ team:
 # client logo slider
 clients_logo_slider:
   enable : true
-  title : "My Clients"
+  title : "Outils"
   # clients logo comes from 'data/homepage.yml' file
