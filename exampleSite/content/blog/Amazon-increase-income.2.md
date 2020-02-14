@@ -5,4 +5,4 @@ image: "images/blog/post-8.jpg"
 description: "This is meta description."
 ---
 
-Pour faciliter le travail des équipes et de réduire la dette design et la dette technique, cette bibliothèque de référence et un guide pour designer et développer toute forme de produit et service digitaux.
+Pour faciliter le travail des équipes et de réduire la dette design et la dette technique, un guide pour designer et développer toute forme de produit et service digitaux.
