@@ -7,10 +7,10 @@ title = "UI Designer | Maxime Larrouturou"
 URL = "about"
 name = "About"
 weight = 2
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 3
+# [[menu.main]]
+# URL = "blog"
+# name = "Blog"
+# weight = 3
 [[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
