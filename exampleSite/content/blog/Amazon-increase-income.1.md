@@ -6,7 +6,7 @@ description: "This is meta description."
 button:
     enable : true
     label : "En savoir plus"
-    RL : "https://github.com/MaximeLarrouturou/pwa_motonews"
+    URL : "https://github.com/MaximeLarrouturou/pwa_motonews"
 ---
 
 MotoNews une progressive web app qui regroupe les sites du domaine du sport mécanique moto. Il est possible d'y en ajouter. Relié à une API-REST, il utilise un systeme de notification lui permettant d'avertir son utilisateur d'un nouveau post du site. L'avantage de la PWA c'est d'avoir un gestionnaire de cache.
