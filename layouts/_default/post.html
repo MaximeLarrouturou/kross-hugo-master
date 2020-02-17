@@ -9,14 +9,14 @@
       <a href="{{ .URL | safeURL }}" class="btn btn-xs btn-primary">En savoir plus</a>
     </div>
   </article>
-  <!-- {{ else }}
+   {{ else }}
   <article class="card shadow">
     <img class="rounded card-img-top" src="{{.image | absURL}}" alt="{{.Title }}">
     <div class="card-body">
       <h4 class="card-title"><span class="text-dark">{{.Title }}</span></h4>
       <p class="cars-text">{{.Summary}}</p><span class="btn btn-xs btn-primary">En savoir plus</span>
     </div>
-  </article> -->
-  <!-- {{ end }} -->
+  </article>
+  {{ end }}
   {{ end }}
 </div>
