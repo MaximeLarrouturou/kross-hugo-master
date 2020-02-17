@@ -1,6 +1,5 @@
 {{ range .Site.Data.homepage.blog.item }}
 <div class="col-lg-4 col-sm-6 mb-4">
-  <!-- {{ if and ( ne .URL "" ) ( ne .URL "#" ) }} -->
   <article class="card shadow">
     <img class="rounded card-img-top" src="{{.image | absURL}}" alt="{{.Title }}">
     <div class="card-body">
@@ -9,14 +8,5 @@
       <a href="{{ .URL | safeURL }}" class="btn btn-xs btn-primary">En savoir plus</a>
     </div>
   </article>
-  <!-- {{ else }}
-  <article class="card shadow">
-    <img class="rounded card-img-top" src="{{.image | absURL}}" alt="{{.Title }}">
-    <div class="card-body">
-      <h4 class="card-title"><span class="text-dark">{{.Title }}</span></h4>
-      <p class="cars-text">{{.Summary}}</p><span class="btn btn-xs btn-primary">En savoir plus</span>
-    </div>
-  </article> -->
-  <!-- {{ end }} -->
 </div>
 {{ end }}
