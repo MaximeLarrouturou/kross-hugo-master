@@ -1,6 +1,6 @@
 <div class="col-lg-4 col-sm-6 mb-4">
   {{ range .Site.Data.homepage.blog.item }}
-  {{ if and ( ne .URL "" ) ( ne .URL "#" ) }}
+  <!-- {{ if and ( ne .URL "" ) ( ne .URL "#" ) }} -->
   <article class="card shadow">
     <img class="rounded card-img-top" src="{{.image | absURL}}" alt="{{.Title }}">
     <div class="card-body">
@@ -17,6 +17,6 @@
       <p class="cars-text">{{.Summary}}</p><span class="btn btn-xs btn-primary">En savoir plus</span>
     </div>
   </article> -->
-  {{ end }}
+  <!-- {{ end }} -->
   {{ end }}
 </div>
