@@ -3,7 +3,7 @@
   <article class="card shadow">
     <img class="rounded card-img-top" src="{{.image | absURL}}" alt="{{.Title }}">
     <div class="card-body">
-      <h4 class="card-title"><a class="text-dark">{{.Title }}</a></h4>
+      <h4 class="card-title"><a href="{{ .URL | safeURL }}" class="text-dark">{{.Title }}</a></h4>
       <p class="cars-text">{{.Summary}}</p>
       <a href="{{ .URL | safeURL }}" class="btn btn-xs btn-primary">En savoir plus</a>
     </div>
