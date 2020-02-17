@@ -1,14 +1,14 @@
-<div class="col-lg-4 col-sm-6 mb-4">
+{{ range .Site.Data.homepage.blog.item }}
+<!-- <div class="col-lg-4 col-sm-6 mb-4"> -->
+<div class=" d-flex align-items-center">
   <!-- {{ if and ( ne .URL "" ) ( ne .URL "#" ) }} -->
   <article class="card shadow">
-    {{ range .Site.Data.homepage.blog.item }}
     <img class="rounded card-img-top" src="{{.image | absURL}}" alt="{{.Title }}">
     <div class="card-body">
       <h4 class="card-title"><a href="{{ .URL | safeURL }}" class="text-dark">{{.Title }}</a></h4>
       <p class="cars-text">{{.Summary}}</p>
       <a href="{{ .URL | safeURL }}" class="btn btn-xs btn-primary">En savoir plus</a>
     </div>
-    {{ end }}
   </article>
   <!-- {{ else }}
   <article class="card shadow">
@@ -20,3 +20,4 @@
   </article> -->
   <!-- {{ end }} -->
 </div>
+{{ end }}
