@@ -161,19 +161,19 @@ clients_logo_slider:
 blog:
   enable : true
   title : "Autres projets"
-  # item:
-  #   - title: "Design System - Mediametrie"
-  #     image: "images/blog/post-8.jpg"
-  #     Summary: "MotoNews une progressive web app qui regroupe les sites du domaine du sport mécanique moto. Il est possible d'y en ajouter. Relié à une API-REST, il utilise un systeme de notification lui permettant d'avertir son utilisateur d'un nouveau post du site. L'avantage de la PWA c'est d'avoir un gestionnaire de cache."
-  #     URL : "https://github.com/MaximeLarrouturou/DesignSystemCAWI"
+  item:
+    - title: "Design System - Mediametrie"
+      image: "images/blog/post-8.jpg"
+      Summary: "MotoNews une progressive web app qui regroupe les sites du domaine du sport mécanique moto. Il est possible d'y en ajouter. Relié à une API-REST, il utilise un systeme de notification lui permettant d'avertir son utilisateur d'un nouveau post du site. L'avantage de la PWA c'est d'avoir un gestionnaire de cache."
+      URL : "https://github.com/MaximeLarrouturou/DesignSystemCAWI"
 
-  #   - title: "MotoNews"
-  #     image: "images/blog/post-7.jpg"
-  #     Summary: "MotoNews une progressive web app qui regroupe les sites du domaine du sport mécanique moto. Il est possible d'y en ajouter. Relié à une API-REST, il utilise un systeme de notification lui permettant d'avertir son utilisateur d'un nouveau post du site. L'avantage de la PWA c'est d'avoir un gestionnaire de cache."
-  #     URL : "https://github.com/MaximeLarrouturou/pwa_motonews"
+    - title: "MotoNews"
+      image: "images/blog/post-7.jpg"
+      Summary: "MotoNews une progressive web app qui regroupe les sites du domaine du sport mécanique moto. Il est possible d'y en ajouter. Relié à une API-REST, il utilise un systeme de notification lui permettant d'avertir son utilisateur d'un nouveau post du site. L'avantage de la PWA c'est d'avoir un gestionnaire de cache."
+      URL : "https://github.com/MaximeLarrouturou/pwa_motonews"
 
-  #   - title: "ReactMovies"
-  #     image: "images/blog/post-9.jpg"
-  #     Summary: "MotoNews une progressive web app qui regroupe les sites du domaine du sport mécanique moto. Il est possible d'y en ajouter. Relié à une API-REST, il utilise un systeme de notification lui permettant d'avertir son utilisateur d'un nouveau post du site. L'avantage de la PWA c'est d'avoir un gestionnaire de cache."
-  #     URL : "https://github.com/MaximeLarrouturou/react-movies"
+    - title: "ReactMovies"
+      image: "images/blog/post-9.jpg"
+      Summary: "MotoNews une progressive web app qui regroupe les sites du domaine du sport mécanique moto. Il est possible d'y en ajouter. Relié à une API-REST, il utilise un systeme de notification lui permettant d'avertir son utilisateur d'un nouveau post du site. L'avantage de la PWA c'est d'avoir un gestionnaire de cache."
+      URL : "https://github.com/MaximeLarrouturou/react-movies"
       # blog post comes from "content/blog" folder
