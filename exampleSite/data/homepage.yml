@@ -137,6 +137,7 @@ clients_logo_slider:
   enable : true
   item:
     - logo : "images/clients-logo/client-logo-1.png"
+    URL : "https://www.adobe.com/fr/creativecloud.html?gclid=Cj0KCQiA7aPyBRChARIsAJfWCgIo6rE9GtsxfErQaEeeJ6ShgZSzqhn-5w8_QC7-LerFJQAaH2IRAkMaApLsEALw_wcB&sdid=88X75SL1&mv=search&ef_id=Cj0KCQiA7aPyBRChARIsAJfWCgIo6rE9GtsxfErQaEeeJ6ShgZSzqhn-5w8_QC7-LerFJQAaH2IRAkMaApLsEALw_wcB:G:s&s_kwcid=AL!3085!3!275520168686!e!!g!!adobe%20cloud"
 
     - logo : "images/clients-logo/client-logo-2.png"
 
