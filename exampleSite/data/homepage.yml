@@ -164,7 +164,7 @@ blog:
   item:
     - title: "Design System - Mediametrie"
       image: "images/blog/post-8.jpg"
-      Summary: "MotoNews une progressive web app qui regroupe les sites du domaine du sport mécanique moto. Il est possible d'y en ajouter. Relié à une API-REST, il utilise un systeme de notification lui permettant d'avertir son utilisateur d'un nouveau post du site. L'avantage de la PWA c'est d'avoir un gestionnaire de cache."
+      Summary: "Pour faciliter le travail des équipes et de réduire les delais, c'est un guide pour développer toute forme de produit et service."
       URL : "https://github.com/MaximeLarrouturou/DesignSystemCAWI"
 
     - title: "MotoNews"
@@ -174,6 +174,6 @@ blog:
 
     - title: "ReactMovies"
       image: "images/blog/post-9.jpg"
-      Summary: "MotoNews une progressive web app qui regroupe les sites du domaine du sport mécanique moto. Il est possible d'y en ajouter. Relié à une API-REST, il utilise un systeme de notification lui permettant d'avertir son utilisateur d'un nouveau post du site. L'avantage de la PWA c'est d'avoir un gestionnaire de cache."
+      Summary: "ReactMovies est une application en react vous permet de rechercher les films et séries que vous souhaitez. Pour cela il utilise l'API OMDB pour rechercher les films, séries et épisodes compatible. Il peut avoir le détail complet si besoin."
       URL : "https://github.com/MaximeLarrouturou/react-movies"
       # blog post comes from "content/blog" folder
