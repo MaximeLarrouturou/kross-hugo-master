@@ -1,4 +1,5 @@
 <div class="col-lg-4 col-sm-6 mb-4">
+  {{ range .Site.Data.homepage.clients_logo_slider.item }}
   <article class="card shadow">
     <img class="rounded card-img-top" src="{{.Params.Image | relURL}}" alt="{{.Title }}">
     <div class="card-body">
@@ -9,7 +10,8 @@
       <a href="{{ .URL | safeURL }}" class="btn btn-xs btn-primary">En savoir plus</a>
       {{ else }}
       <span class="btn btn-xs btn-primary">En savoir plus</span>
-      {{ end }}
     </div>
   </article>
+  {{ end }}
+  {{ end }}
 </div>
