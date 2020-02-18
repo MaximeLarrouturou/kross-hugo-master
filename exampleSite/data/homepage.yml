@@ -128,10 +128,10 @@ testimonial:
       designation : "Psychologue cognitiviste, Co-fondateur de Nielsen Norman Group "
       content : "C'est l’un des designer les plus influents du monde, auteur de nombreux livres, dont « The Design of Everyday Things », « Emotional Design: Why We Love (or Hate) Everyday Things » et « Living with Complexity » . C’est également  un homme d’affaires et un universitaire. Il est membre de la National Academy of Engineering et membre de l’Académie américaine des Arts et des Sciences. Il confonde avec Jakob Nielsen, Nielsen Norman Group, un cabinet de conseil en usabilité, qui aide les entreprises à fournir des produits et services centrés sur l’humain."
       
-    - name : "Jessica Julie"
+    - name : "Dan Abramov"
       image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : ""
+      designation : "Développeur, Créateur de React Hot Loader, Redux, React DnD"
+      content : "Redux est une bibliothèque open-source JavaScript de gestion d'état pour applications web. Elle est plus couramment utilisée avec des bibliothèques comme React ou Angular pour la construction d'interfaces utilisateur."
 
 # client logo slider
 clients_logo_slider:
