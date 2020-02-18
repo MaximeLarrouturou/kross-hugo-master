@@ -119,14 +119,14 @@ testimonial:
   item:
     - name : "Brad Frost"
       image : "images/testimonial/client-1.png"
-      designation : "Web Designer, Funder Atomic Design"
+      designation : "Web Designer, Créateur de l'Atomic Design"
       URL : "https://bradfrost.com/"
       content : "L'Atomic Design. Il s’agit donc d’une méthode de travail qui permet de s’adapter à un environnement changeant, à ses utilisateurs, tout en bénéficiant d’avantages majeurs et en simplifiant la conception des interfaces. Designers ou développeurs : en créant ainsi un système de composants qui améliorent la productivité des équipes, tout le monde y gagne !"
       
-    - name : "Shirley Scot"
-      image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : ""
+    - name : "Donald Norman"
+      image : "images/testimonial/client-2.png"
+      designation : "Psychologue cognitiviste, Co-fondateur de Nielsen Norman Group "
+      content : "C'est l’un des designer les plus influents du monde, auteur de nombreux livres, dont « The Design of Everyday Things », « Emotional Design: Why We Love (or Hate) Everyday Things » et « Living with Complexity » . C’est également  un homme d’affaires et un universitaire. Il est membre de la National Academy of Engineering et membre de l’Académie américaine des Arts et des Sciences. Il confonde avec Jakob Nielsen, Nielsen Norman Group, un cabinet de conseil en usabilité, qui aide les entreprises à fournir des produits et services centrés sur l’humain."
       
     - name : "Jessica Julie"
       image : "images/testimonial/client-1.png"
