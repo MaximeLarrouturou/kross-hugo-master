@@ -119,7 +119,7 @@ testimonial:
   item:
     - name : "Brad Frost"
       image : "images/testimonial/client-1.png"
-      designation : "Web DESIGNER, Funder Atomic Design"
+      designation : "Web Designer, Funder Atomic Design"
       URL : "https://bradfrost.com/"
       content : "L'Atomic Design. Il s’agit donc d’une méthode de travail qui permet de s’adapter à un environnement changeant, à ses utilisateurs, tout en bénéficiant d’avantages majeurs et en simplifiant la conception des interfaces. Designers ou développeurs : en créant ainsi un système de composants qui améliorent la productivité des équipes, tout le monde y gagne !"
       
