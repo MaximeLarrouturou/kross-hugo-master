@@ -115,22 +115,23 @@ portfolio:
 # testimonial
 testimonial:
   enable : true
-  title : "Testimonials"
+  title : "Réferences"
   item:
-    - name : "Jesica Gomez"
+    - name : "Brad Frost"
       image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      designation : "Web DESIGNER, Funder Atomic Design"
+      URL : "https://bradfrost.com/"
+      content : "L'Atomic Design. Il s’agit donc d’une méthode de travail qui permet de s’adapter à un environnement changeant, à ses utilisateurs, tout en bénéficiant d’avantages majeurs et en simplifiant la conception des interfaces. Designers ou développeurs : en créant ainsi un système de composants qui améliorent la productivité des équipes, tout le monde y gagne !"
       
     - name : "Shirley Scot"
       image : "images/testimonial/client-1.png"
       designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      content : ""
       
     - name : "Jessica Julie"
       image : "images/testimonial/client-1.png"
       designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      content : ""
 
 # client logo slider
 clients_logo_slider:
@@ -161,18 +162,3 @@ clients_logo_slider:
 blog:
   title : "Autres projets"
   enable : true
-  # item:
-  #   - Title : "Design System - Mediametrie"
-  #     image : "images/blog/post-8.jpg"
-  #     Summary:  "Pour faciliter le travail des équipes et de réduire les delais, c'est un guide pour développer toute forme de produit et service."
-  #     URL : "https://github.com/MaximeLarrouturou/DesignSystemCAWI"
-
-  #   - Title : "MotoNews"
-  #     image : "images/blog/post-7.jpg"
-  #     Summary : "MotoNews une progressive web app qui regroupe les sites du domaine du sport mécanique moto. Il est possible d'y en ajouter. Relié à une API-REST, il utilise un systeme de notification lui permettant d'avertir son utilisateur d'un nouveau post du site. L'avantage de la PWA c'est d'avoir un gestionnaire de cache."
-  #     URL : "https://github.com/MaximeLarrouturou/pwa_motonews"
-
-  #   - Title : "ReactMovies"
-  #     image : "images/blog/post-9.jpg"
-  #     Summary : "ReactMovies est une application en react vous permet de rechercher les films et séries que vous souhaitez. Pour cela il utilise l'API OMDB pour rechercher les films, séries et épisodes compatible. Il peut avoir le détail complet si besoin."
-  #     URL : "https://github.com/MaximeLarrouturou/react-movies"
