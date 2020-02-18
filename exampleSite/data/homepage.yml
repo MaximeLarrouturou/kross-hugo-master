@@ -157,8 +157,8 @@ clients_logo_slider:
     - logo : "images/clients-logo/client-logo-7.png"
       URL : "https://www.invisionapp.com/"
 
-# Autres projets
-Autres projets:
+# blog
+blog:
   title : "Autres projets"
   enable : true
   # item:
