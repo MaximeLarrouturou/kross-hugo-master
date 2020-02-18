@@ -1,7 +1,7 @@
 # portfolio item
 item:
   - image : "images/portfolio/item-1.png"
-    project_url : "http://examplesite.com"
+    project_url : "http://maximelarrouturou.netlify.com/portfolio/ReactMovies.md"
     category: "design"
       
   - image : "images/portfolio/item-2.png"
