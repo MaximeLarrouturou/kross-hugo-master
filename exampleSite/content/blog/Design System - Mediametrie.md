@@ -5,3 +5,4 @@ image: "images/blog/post-8.jpg"
 description: "This is meta description."
 ---
 
+Pour faciliter le travail des équipes et de réduire les delais, c'est un guide pour développer toute forme de produit et service.
