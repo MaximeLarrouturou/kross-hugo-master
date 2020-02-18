@@ -1,84 +1,84 @@
 # portfolio item
 item:
-  - image : "images/portfolio/item-1.png"
+  - image : "images/portfolio/item-5.png"
     project_url : "https://www.behance.net/gallery/92079743/Redesign-home-page"
-    category: "design"
+    category: "UI Design"
       
   - image : "images/portfolio/item-2.png"
     project_url : "https://www.behance.net/gallery/92078753/Redesign-profil-page"
-    category: "design"
+    category: "UI Design"
 
-  - image : "images/portfolio/item-2.png"
+  - image : "images/portfolio/item-3.png"
     project_url : "https://www.behance.net/gallery/90616541/App-mobile-touch"
-    category: "design"
+    category: "UI Design"
 
-  - image : "images/portfolio/item-2.png"
+  - image : "images/portfolio/item-4.png"
     project_url : "https://www.behance.net/gallery/89329979/Study-case-Reservation-Manager"
-    category: "design"
+    category: "UI Design"
 
-  - image : "images/portfolio/item-2.png"
+  - image : "images/portfolio/item1.png"
     project_url : "https://www.behance.net/gallery/88778345/Redesign-Website-Dosemetrix"
-    category: "design"
+    category: "Web Design"
 
-  - image : "images/portfolio/item-2.png"
+  - image : "images/portfolio/item-6.png"
     project_url : "https://www.behance.net/gallery/88789643/Manufacture-of-custom-motorcycle-parts"
-    category: "design"
+    category: "Graphisme"
 
-  - image : "images/portfolio/item-2.png"
+  - image : "images/portfolio/item-1.png"
     project_url : "https://www.behance.net/gallery/88778141/Transactionnel-mailing-Touch"
-    category: "design"
+    category: "Web Design"
 
-  - image : "images/portfolio/item-2.png"
+  - image : "images/portfolio/item-1.png"
     project_url : "https://www.behance.net/gallery/88777997/Landing-page-Touch"
-    category: "design"
+    category: "Web Design"
 
-  - image : "images/portfolio/item-2.png"
+  - image : "images/portfolio/item-3.png"
     project_url : "https://www.behance.net/gallery/88777265/Website-Touch-v2"
-    category: "design"
+    category: "UI Design"
 
-  - image : "images/portfolio/item-2.png"
+  - image : "images/portfolio/item-6.png"
     project_url : "https://www.behance.net/gallery/88773299/Personal-access-portal"
-    category: "design"
+    category: "Web Design"
 
   - image : "images/portfolio/item-6.png"
     project_url : "https://www.behance.net/gallery/88767105/Access-portal-Survey-experience"
-    category: "efef"
+    category: "Web Design"
 
   - image : "images/portfolio/item-4.png"
     project_url : "https://www.behance.net/gallery/88758331/CEREQ-Generation-Mobile"
-    category: "etet"
+    category: "UI Design"
 
-  - image : "images/portfolio/item-7.png"
+  - image : "images/portfolio/item-5.png"
     project_url : "https://www.behance.net/gallery/88762785/research-redesign-back-office"
-    category: "et"
+    category: "UI Design"
 
-  - image : "images/portfolio/item-2.png"
+  - image : "images/portfolio/item-1.png"
     project_url : "https://www.behance.net/gallery/88760507/Bi-color"
-    category: "hjuui"
+    category: "Photographie"
 
-  - image : "images/portfolio/item-2.png"
+  - image : "images/portfolio/item-6.png"
     project_url : "https://www.behance.net/gallery/88760115/Infographie"
-    category: "design"
+    category: "Graphisme"
 
-  - image : "images/portfolio/item-2.png"
+  - image : "images/portfolio/item-6.png"
     project_url : "https://www.behance.net/gallery/88759921/WAYS-album-clutch"
-    category: "design"
+    category: "Graphisme"
 
-  - image : "images/portfolio/item-2.png"
+  - image : "images/portfolio/item-8.png"
     project_url : "https://www.behance.net/gallery/88759513/Design-System"
-    category: "design"
+    category: "UI Design"
 
-  - image : "images/portfolio/item-2.png"
+  - image : "images/portfolio/item-1.png"
     project_url : "https://www.behance.net/gallery/88757345/Survey-experience"
-    category: "design"
+    category: "Web Design"
 
-  - image : "images/portfolio/item-2.png"
+  - image : "images/portfolio/item-5.png"
     project_url : "https://www.behance.net/gallery/88756047/Website-Touch-v3"
-    category: "design"
+    category: "UI Design"
 
-  - image : "images/portfolio/item-2.png"
+  - image : "images/portfolio/item-6.png"
     project_url : "https://www.behance.net/gallery/88755157/Logotype-Poupi-Motors"
-    category: "design"
+    category: "Graphisme"
      
 
 
