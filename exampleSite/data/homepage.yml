@@ -159,8 +159,8 @@ clients_logo_slider:
 
 # blog
 blog:
-  enable : true
   title : "Autres projets"
+  enable : true
   item:
     - Title: "Design System - Mediametrie"
       image: "images/blog/post-8.jpg"

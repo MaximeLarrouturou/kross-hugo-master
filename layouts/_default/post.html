@@ -1,4 +1,4 @@
-{{ range .Site.Data.homepage.blog.item }}
+{{ range first 3 .Site.Data.homepage.blog.item }}
 {{ if and ( ne .URL "" ) ( ne .URL "#" ) }}
 <div class="col-lg-4 col-sm-6 mb-4">
   <article class="card shadow">
