@@ -62,11 +62,15 @@ education:
   enable : true
   title : "Diplômes et certifications"
   item:
-    - title : "Formation en ligne"
-      year : "2017 - actuel"
+    - title : "Formations en ligne"
+      year : "2017 - ..."
       academy : "Udemy - Site web de formation en ligne"
+
+    - title : "Android, développer des applications pour mobiles, les bases du language swift"
+      year : "Oct 2017"
+      academy : "Orsys, La Defense(92)"
       
-    - title : "BAC +4 - Chef de projet web concepteur/développeur web "
+    - title : "Master - Chef de projet web concepteur/développeur web"
       year : "Jan 2015 - Juin 2016"
       academy : "Institut f2i, Neuilly-Sur-Seine(92)"
       
@@ -78,9 +82,6 @@ education:
       year : "Sept 2006 - Août 2008"
       academy : "Campus Fonderie de l'Image, Bagnolet(93)"
 
-    - title : "Android, développer des applications pour mobiles, les bases du language swift"
-      year : "Oct 2017"
-      academy : "Orsys, La Defense(92)"
 
 # service
 service:
@@ -115,7 +116,7 @@ portfolio:
 # testimonial
 testimonial:
   enable : true
-  title : "Réferences"
+  title : "Références"
   item:
     - name : "Brad Frost"
       image : "images/testimonial/client-1.png"
