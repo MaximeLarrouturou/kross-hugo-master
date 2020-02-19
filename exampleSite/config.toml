@@ -33,7 +33,7 @@ phone = "0678491075"
 theme_color = "#41228e"
 [params.contact]
 enable = true
-form_action = "larrouturoumaxime@gmail.com"
+form_action = "POST"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
