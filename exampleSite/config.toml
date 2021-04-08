@@ -22,9 +22,9 @@ weight = 5
 [params]
 address = "71 rue Jean Marin Naudin, France, 92220 Bagneux"
 author = "Maxime Larrouturou"
-copyright = "Copyrighht &copy; 2020"
+copyright = "Copyrighht &copy; 2021"
 customCSS = ["css/style.css"]
-description = "Venez découvrir mon travail en tant qu'UI Designer."
+description = "Venez découvrir mon travail en tant que Web Designer."
 email = "larrouturoumaxime@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
