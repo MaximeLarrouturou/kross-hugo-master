@@ -31,7 +31,7 @@
           {{ if and ( ne .project_url "" ) ( ne .project_url "#" ) }}
           <div class="hover-overlay">
             <div class="hover-content">          
-              <p>teyduzqferoper</p>
+              <p>{{.texte}}</p>
               <a class="btn btn-light btn-sm" href="{{ .project_url | safeURL }}" target="_blank">voir le projet</a>
             </div>
           </div>

@@ -3,10 +3,12 @@ item:
   - image : "images/portfolio/web-9.jpg"
     project_url : "https://www.carbonshape.fr"
     category: "Web Design"
+    texte: "test 01"
 
   - image : "images/portfolio/web-10.jpg"
     project_url : "https://www.esthetecustom.com"
     category: "Web Design"
+    texte: "test 02"
 
   - image : "images/portfolio/ui-1.png"
     project_url : "https://www.behance.net/gallery/92079743/Redesign-home-page"
