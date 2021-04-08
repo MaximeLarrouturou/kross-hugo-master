@@ -1,10 +1,10 @@
 # portfolio item
 item:
-  - image : "images/portfolio/web-9.png"
+  - image : "images/portfolio/web-9.jpg"
     project_url : "https://www.carbonshape.fr"
     category: "Web Design"
 
-  - image : "images/portfolio/web-10.png"
+  - image : "images/portfolio/web-10.jpg"
     project_url : "https://www.esthetecustom.com"
     category: "Web Design"
 
