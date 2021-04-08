@@ -16,7 +16,6 @@
           {{ $categories = $categories | append .category }}
           {{ end }}
           {{ range ( $categories | uniq ) }}
-          <p>teyduzqferoper</p>
           <label class="btn btn-sm btn-primary">
             <input type="radio" name="shuffle-filter" value="{{ . | urlize }}" />{{ . | humanize }}
           </label>
@@ -31,7 +30,8 @@
           <img src="{{.image | absURL }}" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
           {{ if and ( ne .project_url "" ) ( ne .project_url "#" ) }}
           <div class="hover-overlay">
-            <div class="hover-content">
+            <div class="hover-content">          
+              <p>teyduzqferoper</p>
               <a class="btn btn-light btn-sm" href="{{ .project_url | safeURL }}" target="_blank">voir le projet</a>
             </div>
           </div>
